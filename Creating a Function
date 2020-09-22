@@ -1,0 +1,4 @@
+In order to create a function, you must do:
+variable …function name… = function[paramaters(comma between each paramater)]
+        …function code…
+/stop
