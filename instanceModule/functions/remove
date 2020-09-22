@@ -1,0 +1,10 @@
+/remove
+
+Paramaters:
+instance,keep samples(bool)(optional),new sample source(can only be used if last bool was true)
+
+Used for:
+Removing an instance.
+
+Example:
+/remove[world:buildingFolder,true,cityMap]
