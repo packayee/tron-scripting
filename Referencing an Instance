@@ -1,0 +1,3 @@
+In order to reference instances, you have to do it just like they are inside files. Like for example PCFiles:OneDriveFiles:Photos
+And in actual Tron, it would look like this. Let's say I'm referencing a part.
+World:Part
