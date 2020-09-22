@@ -7,4 +7,4 @@ What it does:
 It creates an instance.
 
 Example:
-/create[block,world]
+/create[enum:instance:block,world]
