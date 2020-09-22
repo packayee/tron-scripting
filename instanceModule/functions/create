@@ -1,0 +1,10 @@
+/create
+
+Paramaters:
+instance type, source(optional)
+
+What it does:
+It creates an instance.
+
+Example:
+/create[block,world]
