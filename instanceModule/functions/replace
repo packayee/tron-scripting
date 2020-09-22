@@ -1,0 +1,10 @@
+/replace
+
+Paramaters:
+instance you are replacing, new instance's instance type
+
+Used for:
+Replacing instances, which will also remove the instance that is replaced.
+
+Example:
+/replace[world:block,enum:instance:sphereBlock]
